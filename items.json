@@ -37624,6 +37624,45 @@
         "thumbnail":"sphere_thum_819296.png",
         "type":"sphere"
     },
+    "819297":{
+        "desc":"MST_SPHERES_819297_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"50,0,0,30,50",
+                "proc id":"1"
+            },
+            {
+                "params":"1.75",
+                "proc id":"34"
+            },
+            {
+                "params":"5,0,0,0,0,0,1",
+                "proc id":"50"
+            },
+            {
+                "params":"100,200,100",
+                "proc id":"47"
+            },
+            {
+                "params":"20",
+                "proc id":"43"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819297",
+        "id":"819297",
+        "lore":"MST_SPHERES_819297_LONGDESCRIPTION",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819297_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_2",
+        "target":"none",
+        "thumbnail":"sphere_thum_819297.png",
+        "type":"sphere"
+    },
     "819299":{
         "desc":"MST_SPHERES_819299_SHORTDESCRIPTION",
         "effects":[
