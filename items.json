@@ -37269,6 +37269,88 @@
         "thumbnail":"sphere_thum_819280.png",
         "type":"sphere"
     },
+    "819281":{
+        "desc":"MST_SPHERES_819281_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"6,0,55,55,55,0,55",
+                "proc id":"2"
+            },
+            {
+                "params":"200,400,100",
+                "proc id":"25"
+            },
+            {
+                "params":"20,20,60",
+                "proc id":"24"
+            },
+            {
+                "params":"100,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"50,75,100",
+                "proc id":"26"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819281",
+        "id":"819281",
+        "lore":"MST_SPHERES_819281_LONGDESCRIPTION",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819281_NAME",
+        "rarity":6,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_9",
+        "target":"none",
+        "thumbnail":"sphere_thum_819281.png",
+        "type":"sphere"
+    },
+    "819282":{
+        "desc":"MST_SPHERES_819282_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"6,0,65,65,65,0,65",
+                "proc id":"2"
+            },
+            {
+                "params":"300,400,100",
+                "proc id":"25"
+            },
+            {
+                "params":"30,30,60",
+                "proc id":"24"
+            },
+            {
+                "params":"125,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"75,75,100",
+                "proc id":"26"
+            },
+            {
+                "params":"20",
+                "proc id":"43"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819282",
+        "id":"819282",
+        "lore":"MST_SPHERES_819282_LONGDESCRIPTION",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819282_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_9",
+        "target":"none",
+        "thumbnail":"sphere_thum_819282.png",
+        "type":"sphere"
+    },
     "819284":{
         "desc":"MST_SPHERES_819284_SHORTDESCRIPTION",
         "effects":[
@@ -38724,7 +38806,7 @@
         "from raid":"false",
         "guide id":"819321",
         "id":"819321",
-        "lore":"A medal set with jewelled petal motifs, reminiscent of a blooming flower. It lives up to its namesake, harnessing the powerful, yet contrasting pulses of both light and dark energy. Grants its bearer great power over light and darkness.",
+        "lore":"A medal set with jewelled petals. It is said that the contrasting powers contained within, unleashed to full effect, can cause recurring nightmares in foes that survive the onslaught. Grants its bearer power over light and darkness.",
         "max equip":1,
         "max stack":1,
         "name":"MST_SPHERES_819321_NAME",
@@ -38759,7 +38841,7 @@
         "from raid":"false",
         "guide id":"819322",
         "id":"819322",
-        "lore":"A medal set with jewelled petals. It is said that the contrasting powers contained within, unleashed to full effect, can cause recurring nightmares in foes that survive the onslaught. Grants its bearer power over light and darkness.",
+        "lore":"A medal set with jewelled petal motifs, reminiscent of a blooming flower. It lives up to its namesake, harnessing the powerful, yet contrasting pulses of both light and dark energy. Grants its bearer great power over light and darkness.",
         "max equip":1,
         "max stack":1,
         "name":"MST_SPHERES_819322_NAME",
